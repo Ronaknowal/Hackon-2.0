@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(29, 212, 203);
+}
+.navbar{
+    background-color:dodgerblue;
+    border-radius:30px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    list-style-type: none;
+}
+.navbar li a{
+    color: white;
+    float: left;
+    padding:2px 16px;
+    text-decoration: none;
+}
+.navbar li a:hover{
+    background-color: blue;
+    border-radius: 12px;
+}
