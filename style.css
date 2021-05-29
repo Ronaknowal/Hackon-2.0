@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(29, 212, 203);
+    background-color: rgb(0, 0, 0);
 }
 .navbar{
     background-color:dodgerblue;
@@ -26,10 +26,52 @@ body{
 }
 .content{
     margin-top: 5px;
-    height: 300px;
+    height: 900px;
     border-radius: 44px;
     background-color:#bdfffc;
+    background-image: url(https://images.unsplash.com/photo-1549890762-0a3f8933bc76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2035&q=80);
+    background-size: 100vw;
+    /* display:flexbox;
+    flex-wrap: wrap;
+    flex-direction: column; */
+    /* justify-content:center; */
 }
-.content h1{
-    text-align: center;
+/* .content h1{
+    position: relative;
+    color: rgb(228, 228, 228);
+    top: 30px;
+    left: 40px;
+    display: inline-block;
+} */
+.box{
+    position: relative;
+    background-color:rgb(212, 147, 128);
+    height: 140px;
+    width: 300px;
+    display:inline-block;
+    border-radius: 10px;
+    top: 400px;
+    left: 40px;
+    margin: 5px;
 }
+.button{
+    position: relative;
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    text-decoration:none;
+    padding: .4em;
+
+}
+#button1{
+    border-radius: 5px;
+    top: 1.5em;
+    left: 9em;
+
+}
+#button2{
+    border-radius: 5px;
+    top: 1.5em;
+    left: 3em;
+
+}
+
