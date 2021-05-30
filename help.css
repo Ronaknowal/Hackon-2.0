@@ -25,12 +25,12 @@ body{
     border-radius: 12px;
 }
 .content{
-    margin-top: 5px;
+     margin-top: 5px;
     height: 900px;
     border-radius: 44px;
     background-color:#bdfffc;
-    /* background-image: url(https://images.unsplash.com/photo-1544507888-56d73eb6046e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80);
-    background-size: 100rem; */
+    background-image: url(https://images.unsplash.com/photo-1549890762-0a3f8933bc76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2035&q=80);
+    background-size: 100vw;
 }
 
 .container{
@@ -38,9 +38,11 @@ body{
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+    background-image: url(https://images.unsplash.com/photo-1549890762-0a3f8933bc76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2035&q=80);
+    background-size: 100vw;
 }
 .box{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(112, 153, 126);
     border-radius: 20px;
     height: 8rem;
     width: 25rem;
