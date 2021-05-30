@@ -31,18 +31,7 @@ body{
     background-color:#bdfffc;
     background-image: url(https://images.unsplash.com/photo-1549890762-0a3f8933bc76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2035&q=80);
     background-size: 100vw;
-    /* display:flexbox;
-    flex-wrap: wrap;
-    flex-direction: column; */
-    /* justify-content:center; */
 }
-/* .content h1{
-    position: relative;
-    color: rgb(228, 228, 228);
-    top: 30px;
-    left: 40px;
-    display: inline-block;
-} */
 .box{
     position: relative;
     background-color:rgb(112, 153, 126);
