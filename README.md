@@ -2,14 +2,14 @@
  
 Team : SMC T-3
 
- - Ronak Sharma (Team Lead)
+ - Ronak Sharma (Team Lead) 
  - Priyaranjan Mishra
  - Sujay Mahalle
  - Suryakant Patwardhan
 
 #### Theme : MENTAL HEALTH AND AWARENESS
 
-### Title :
+### Title : MOODLIFT
 Our Moto :
 > Uplifting Everyone & Spreading Happiness
 
