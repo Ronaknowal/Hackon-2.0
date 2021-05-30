@@ -16,7 +16,7 @@ Our Moto :
 
 Project Description:
 ```
-Description about what we have done hoe we have done
+Description about what we have done and how we have done
 ``` 
 Website link - [Website link](https://github.com/Ronaknowal/Hackon-2.0/blob/main/index.html)
 
