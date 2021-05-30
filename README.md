@@ -11,7 +11,7 @@ Team : SMC T-5
 
 ### Title : MOODLIFT
 Our Moto :
-> Spreading Happiness
+> Uplifting Individuals
 
 
 Project Description:
