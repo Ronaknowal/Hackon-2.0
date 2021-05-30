@@ -11,7 +11,7 @@ Team : SMC T-3
 
 ### Title :
 Our Moto :
-> Spreading Happiness
+> Uplifting Everyone & Spreading Happiness
 
 
 Project Description:
